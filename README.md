@@ -1,5 +1,4 @@
 # 🎬 Movie Review Sentiment Analysis
-# 🎬 Movie Review Sentiment Analysis
 
 This project is a simple Natural Language Processing (NLP) application that predicts whether a movie review is **Positive** or **Negative** using Machine Learning.
 
